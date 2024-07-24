@@ -16,6 +16,7 @@ Start the Development Server
 Use Parcel to serve your application:
 
   ```bash
+Yarn install 
 npx parcel index.html
   ```
 
